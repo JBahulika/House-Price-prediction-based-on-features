@@ -3,6 +3,10 @@
 This project is an end-to-end machine learning application that predicts house prices based on various features.
 It includes a Jupyter Notebook for data analysis and model training, and a Python web application to serve the final prediction model.
 
+# live application link 
+
+https://jbahulika-house-price-prediction-based-on-features-app-weilmo.streamlit.app 
+
 ### Key Features
 - **Data Analysis:** Exploratory Data Analysis (EDA) to understand feature distributions and correlations.
 - **Model Training:** An XGBoost Regressor model is trained on the dataset to predict prices.

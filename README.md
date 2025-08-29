@@ -16,17 +16,3 @@ It includes a Jupyter Notebook for data analysis and model training, and a Pytho
 - Joblib (for saving the model)
 - Flask / Streamlit (for the web application)
 
-### Setup and Installation
-1.  Clone the repository:
-    `git clone https://github.com/your-username/your-repository-name.git`
-2.  Navigate into the project directory:
-    `cd your-repository-name`
-3.  Install the required libraries:
-    `pip install -r requirements.txt`
-
-### Usage
-- **To explore the analysis and model training process:**
-  Open and run the `app.ipynb` Jupyter Notebook.
-- **To run the web application:**
-  `python app.py`
-  Then, open your web browser and go to `http://127.0.0.1:5000`.
